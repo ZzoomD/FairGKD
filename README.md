@@ -11,8 +11,9 @@ FairGKD consists of a synthetic teacher and a GNN student model denoted by $f_{t
 ![](./img/overview.png)
 
 ## Requirements
+- python==3.7.9
 - numpy==1.21.6
-- torch==1.6.0
+- torch==1.13.1
 - torch-cluster==1.5.9
 - torch_geometric==2.0.4
 - torch-scatter==2.0.6
